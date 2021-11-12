@@ -1,0 +1,38 @@
+.text {
+  color: grey;
+  font-family: Arial;
+  }
+  
+.inline {
+  color: white;
+  font: 24 px;
+  
+  
+}
+
+.dataset {
+  color: black;
+  font-family: Arial;
+  }
+  
+  
+
+h2 { 
+   position: absolute; 
+   color: red;
+   top: 60px; 
+   left:20; 
+   width: 100%; 
+}
+
+.imageContainer {
+       width: 400px; 
+       height: 800px; 
+       repeat: no-repeat;
+       background-image: url(https://raw.githubusercontent.com/Dmitrykonn/locals/main/staticcenter.jpg);
+ }
+
+
+.image {
+position: relative;
+}
